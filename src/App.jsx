@@ -17,7 +17,9 @@ function App() {
         </a>
       </div>
       <h1>Git rebase -i</h1>
-      <div className="card"></div>
+      <div className="card">
+        <h1>Cities</h1>
+      </div>
     </>
   );
 }
