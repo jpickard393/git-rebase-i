@@ -27,7 +27,7 @@ function App() {
         <h2>Glasgow</h2>
         <h2>York</h2>
         <h2>Reading</h2>
-        <h2>Notacity</h2>
+        <h2>Sheffield</h2>
       </div>
     </>
   );
