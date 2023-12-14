@@ -19,6 +19,14 @@ function App() {
       <h1>Git rebase -i</h1>
       <div className="card">
         <h1>Cities</h1>
+        <br />
+        <h2>London</h2>
+        <h2>Birmingham</h2>
+        <h2>Manchester</h2>
+        <h2>Leeds</h2>
+        <h2>Reading</h2>
+        <h2>Glasgow</h2>
+        <h2>York</h2>
       </div>
     </>
   );
