@@ -24,7 +24,6 @@ function App() {
         <h2>Birmingham</h2>
         <h2>Manchester</h2>
         <h2>Leeds</h2>
-        <h2>Reading</h2>
         <h2>Glasgow</h2>
         <h2>York</h2>
       </div>
